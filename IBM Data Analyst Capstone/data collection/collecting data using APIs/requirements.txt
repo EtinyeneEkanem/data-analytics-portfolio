@@ -6,6 +6,6 @@ json
 
 openpyxl
 
-jupyter notebook
+jupyter-notebook
 
 flask
