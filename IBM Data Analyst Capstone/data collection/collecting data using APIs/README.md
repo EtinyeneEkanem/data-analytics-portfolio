@@ -173,7 +173,7 @@ An additional **location-by-technology matrix** was created to show and compare 
 ### Project Files
 The main notebook is:
 
-**Collecting Jobs Data Using APIs.ipynb**
+**Collecting Job Data Using APIs.ipynb**
 
 The generated Excel output is:
 
