@@ -1,0 +1,11 @@
+requests
+
+pandas
+
+json
+
+openpyxl
+
+jupyter notebook
+
+flask
