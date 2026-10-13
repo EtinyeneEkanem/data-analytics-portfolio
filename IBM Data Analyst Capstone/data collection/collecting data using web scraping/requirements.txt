@@ -1,4 +1,4 @@
 requests
 beautifulsoup
 pandas
-jupyter notebook
+jupyter-notebook
