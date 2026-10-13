@@ -1,1 +1,4 @@
-
+requests
+beautifulsoup
+pandas
+jupyter notebook
